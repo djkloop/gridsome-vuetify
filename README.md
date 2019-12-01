@@ -8,5 +8,6 @@
 
 1. `git clone git@github.com:djkloop/gridsome-vuetify.git` to install default starter
 2. `cd gridsome-vuetify` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+3. `yarn || npm i` to install dependencies
+4. `gridsome develop` to start a local dev server at `http://localhost:8080`
+5. Happy coding 🎉🙌
